@@ -1,0 +1,140 @@
+.home-bg {
+  display: flex;
+  flex-direction: column;
+}
+.but-cont {
+  margin-left: 50px;
+  margin-top: 8px;
+}
+
+.home-but {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 198.69px;
+  height: 41px;
+  top: 133px;
+  left: 185px;
+  gap: 5px;
+  border-style: solid;
+  border-radius: 35.32px;
+  border: 0.75px 0px 0px 0px;
+  opacity: 0px;
+  border-color: #999999;
+  background-color: #fff;
+  cursor: pointer;
+}
+.but-text {
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+  color: #3c3c3c;
+}
+.home-head {
+  font-family: "Roboto";
+  font-size: 53.41px;
+  font-weight: 700;
+  color: #7e22ce;
+  margin-top: 0px;
+}
+.grp {
+  width: 439.03px;
+  height: 261.67px;
+}
+.desc {
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 400;
+  text-align: center;
+  color: #838383;
+  width: 1200px;
+}
+.home-bg-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.pro-but {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 469.83px;
+  height: 59.92px;
+  border-radius: 12.89px;
+  opacity: 0px;
+  background: #211935;
+  color: #fff;
+  font-family: Roboto;
+  font-size: 36.28px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.plus {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  width: 35.86px;
+  height: 35.85px;
+  gap: 0px;
+  opacity: 0px;
+  border-radius: 35px;
+  font-size: 20px;
+  text-align: center;
+  color: #211935;
+}
+.pop {
+  background-color: #fff;
+  width: 718px;
+  height: 258.13px;
+  border-radius: 33px;
+  display: flex;
+  flex-direction: column;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+.pop-head {
+  font-weight: 800;
+  font-family: "Roboto";
+  font-size: 20px;
+}
+.pop-l {
+  font-size: 16px;
+  font-family: "Roboto";
+}
+.title {
+  width: 95%;
+  height: 45px;
+  border-radius: 8px;
+}
+.pop-but {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  align-self: flex-end;
+  margin-top: 20px;
+}
+.cancel {
+  border-width: 0px;
+  color: red;
+  background-color: transparent;
+  font-weight: 500;
+  font-size: 18px;
+  cursor: pointer;
+}
+.create {
+  background-color: #7e22ce;
+  color: #fff;
+  border-radius: 8px;
+  height: 30px;
+  width: 80px;
+  border-width: 0px;
+  font-size: 18px;
+  cursor: pointer;
+}
+.focus {
+  color: red;
+}

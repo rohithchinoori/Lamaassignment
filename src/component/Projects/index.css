@@ -1,0 +1,75 @@
+.project-cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 50px;
+  margin-top: 10px;
+  width: 1400px;
+}
+.pro-but1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 276.83px;
+  height: 59.92px;
+  border-radius: 12.89px;
+  opacity: 0px;
+  background: #211935;
+  color: #fff;
+  font-family: Roboto;
+  font-size: 20.28px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.samples {
+  width: 1400px;
+  margin-left: 50px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 50px;
+}
+.card {
+  display: flex;
+  align-items: center;
+  border-style: solid;
+  gap: 20px;
+  height: 165px;
+  width: 400px;
+  border-radius: 26px;
+  padding: 8px;
+  border-color: #999999;
+  border-width: 1px;
+}
+.card1 {
+  background-color: #7e22ce;
+  width: 152.4px;
+  height: 140.01px;
+  border-radius: 18.21px;
+}
+.sp {
+  font-family: "Roboto";
+  font-size: 77.95px;
+  font-weight: 700;
+  text-align: center;
+  color: #fff;
+  margin-top: 30px;
+}
+.sp1 {
+  font-size: 20px;
+  color: #7e22ce;
+  font-weight: 700;
+}
+.epi {
+  margin-top: 0px;
+}
+.edit {
+  color: gray;
+  font-size: 12px;
+}
+.link {
+  text-decoration: none;
+}
