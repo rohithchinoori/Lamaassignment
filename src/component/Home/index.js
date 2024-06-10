@@ -30,7 +30,11 @@ const Home = () => (
         </p>
         <Popup
           modal
-          trigger={<button className="pro-but">Create New Project</button>}
+          trigger={
+            <button className="pro-but">
+              <p className="plus">+</p>Create New Project
+            </button>
+          }
           overlayStyle={{ background: "rgba(0, 0, 0, 0.5)" }}
         >
           {(close) => (

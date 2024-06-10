@@ -63,8 +63,7 @@
   width: 469.83px;
   height: 59.92px;
   border-radius: 12.89px;
-  opacity: 0px;
-  background: #211935;
+  background-color: #211935;
   color: #fff;
   font-family: Roboto;
   font-size: 36.28px;
@@ -79,7 +78,6 @@
   width: 35.86px;
   height: 35.85px;
   gap: 0px;
-  opacity: 0px;
   border-radius: 35px;
   font-size: 20px;
   text-align: center;
